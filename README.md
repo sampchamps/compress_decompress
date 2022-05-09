@@ -26,10 +26,11 @@ Decompress Command
 `python3 compress_decompress -de`
 
 
-## Unit Test
-Compress Command
+## Python Unit Test(unittest)
+Compress Test Command
 
 `python3 -m unittest test`
 
-Decompress Command
+Decompress Test Command
+
 `python3 -m unittest test_decompress.py`
