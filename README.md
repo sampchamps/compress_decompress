@@ -20,7 +20,16 @@ Then proceed to run the following commands in terminal or command line.
 
 Compress Command
 
-` python3 compress_decompress.py -co`
+`python3 compress_decompress.py -co`
 
 Decompress Command
-` python3 compress_decompress -de`
+`python3 compress_decompress -de`
+
+
+## Unit Test
+Compress Command
+
+`python3 -m unittest test`
+
+Decompress Command
+`python3 -m unittest test_decompress.py`
