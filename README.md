@@ -23,6 +23,7 @@ Compress Command
 `python3 compress_decompress.py -co`
 
 Decompress Command
+
 `python3 compress_decompress -de`
 
 
