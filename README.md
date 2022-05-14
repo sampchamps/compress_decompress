@@ -20,8 +20,7 @@ https://github.com/sampchamps/compress_decompress
 Then proceed to run the following commands in terminal or command line.
 
 ## Unit Test - Installation
-`pip install unittest`
-
+`pip install unittest2`
 
 ## Command for UnitTest
 
@@ -33,7 +32,6 @@ Decompress Command
 
 `python3 compress_decompress -de`
 
-
 ## Python Unit Test(unittest)
 Compress Test Command
 
@@ -42,3 +40,13 @@ Compress Test Command
 Decompress Test Command
 
 `python3 -m unittest test_decompress.py`
+
+
+## PyTest - Installation
+`pip install pytest`
+
+## Python PyTes - Command
+Decompress Test Command
+
+`pytest test_decompress.py`
+
