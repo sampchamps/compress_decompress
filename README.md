@@ -13,10 +13,17 @@ The current repo is open repo on github.
 
 ```
 https://github.com/sampchamps/compress_decompress
+
 ```
 `cd compress_decompress`
 
 Then proceed to run the following commands in terminal or command line.
+
+## Unit Test - Installation
+`pip install unittest`
+
+
+## Command for UnitTest
 
 Compress Command
 
